@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio20 - De vectores a
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio21 - Matriz transpuesta", "Ejercicio21 - Matriz transpuesta\Ejercicio21 - Matriz transpuesta.csproj", "{DE4AC79A-C066-4FE1-AD5E-7C6A799D5F89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio22 - Vector de vectores", "Ejercicio22 - Vector de vectores\Ejercicio22 - Vector de vectores.csproj", "{D83DAECA-8830-4A0D-872F-E9F82D73E1D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{DE4AC79A-C066-4FE1-AD5E-7C6A799D5F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE4AC79A-C066-4FE1-AD5E-7C6A799D5F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE4AC79A-C066-4FE1-AD5E-7C6A799D5F89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D83DAECA-8830-4A0D-872F-E9F82D73E1D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D83DAECA-8830-4A0D-872F-E9F82D73E1D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D83DAECA-8830-4A0D-872F-E9F82D73E1D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D83DAECA-8830-4A0D-872F-E9F82D73E1D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -13,7 +13,7 @@ namespace Ejercicio21___Matriz_transpuesta
              /* 
                 21. Ingrese con números al azar (del 0 al 9) una matriz cuadrada de N x N, 
                     muéstrela, halle la transpuesta y muestre el resultado. 
-            */
+             */
 
             Random random = new Random();
 
