@@ -11,9 +11,9 @@ namespace Ejercicio22___Vector_de_vectores
         static void Main()
         {
             /*
-                22. Declarar un vector de vectores diferentes, es decir, una matriz con
-                    filas de diferente tamaño de columnas. Buscar el máximo por fila y 
-                    el máximo global.
+                22. Declarar un vector de vectores diferentes, es decir, una matriz que
+                    tenga filas con un tamaño de columna distinto. Buscar el máximo por
+                    fila y el máximo global.
             */
             const int FILAS = 2;
             int[] maxFilas = new int[FILAS];
